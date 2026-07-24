@@ -1,4 +1,4 @@
-# 環境依存ファイル
+# Environment-specific files
 .env
 *.log
 node_modules/
