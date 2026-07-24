@@ -1,0 +1,6 @@
+# 環境依存ファイル
+.env
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
